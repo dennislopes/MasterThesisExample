@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+  <class name="br/university/sfl/Max">
+    <method name="max" desc="([II)I">
+      <du var="out" def="6" use="14" covered="1"/>
+      <counter type="DU" missed="5" covered="21"/>
+      <counter type="METHOD" missed="0" covered="1"/>
+    </method>
+    <counter type="DU" missed="5" covered="21"/>
+    <counter type="METHOD" missed="0" covered="1"/>
+    <counter type="CLASS" missed="0" covered="1"/>
+  </class>
+  <counter type="DU" missed="5" covered="21"/>
+  <counter type="METHOD" missed="0" covered="1"/>
+  <counter type="CLASS" missed="0" covered="1"/>
+</report>

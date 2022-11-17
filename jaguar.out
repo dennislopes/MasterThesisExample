@@ -1,0 +1,9 @@
+16:17:46.259 [main] INFO  JaguarDF - Welcome to Jaguar-DF CLI!
+16:17:46.317 [main] DEBUG JaguarDF - CLI Arguments: [--projectDir, /PPgSI/workdir/Example, --classesDir, ., --testsDir, ., --tests, /PPgSI/workdir/Example/tests.all, --logLevel, INFO]
+3
+6
+10
+3
+16:17:46.508 [main] INFO  JaguarDF - Test t4(br.university.sfl.MaxTest) : Failed
+16:17:46.511 [main] INFO  JaguarDF - Test t5(br.university.sfl.MaxTest) : Failed
+16:17:46.513 [main] INFO  JaguarDF - Jaguar-DF has finished!
